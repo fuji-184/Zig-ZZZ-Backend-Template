@@ -1,0 +1,5 @@
+.zig-cache
+watch
+zig-out
+lib
+zig2.exe
